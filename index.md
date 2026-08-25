@@ -1,7 +1,7 @@
-### Accepted to IWAENC 2026 (Paper number: 111)
+### IWAENC 2026
 
 ## Abstract
-
+<a href="2026_IWAENC_Serom.pdf" target="_blank">Paper</a>
 <p align="center">
   <img src="architecture_revise.png" width="600">
 </p>
