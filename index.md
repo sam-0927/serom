@@ -1,3 +1,10 @@
+<style>
+.anchor,
+.octicon-link {
+  display: none !important;
+}
+</style>
+
 ### IWAENC 2026
 <a href="2026_IWAENC_Serom.pdf" target="_blank">📄 Paper</a>
 
