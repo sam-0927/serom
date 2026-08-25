@@ -1,7 +1,8 @@
 ### IWAENC 2026
+<a href="2026_IWAENC_Serom.pdf" target="_blank">📄 Paper</a>
 
 ## Abstract
-<a href="2026_IWAENC_Serom.pdf" target="_blank">Paper</a>
+
 <p align="center">
   <img src="architecture_revise.png" width="600">
 </p>
@@ -89,4 +90,4 @@ PASE: “PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination 
 <td><audio controls><source src='./demo_sample/2830-3980-0015_with_reverb_snr5_serom.wav'></audio></td>
 <td><audio controls><source src='./demo_sample/3570-5696-0004_with_reverb_snr-5_serom.wav'></audio></td>
 </tr>
-   
+
